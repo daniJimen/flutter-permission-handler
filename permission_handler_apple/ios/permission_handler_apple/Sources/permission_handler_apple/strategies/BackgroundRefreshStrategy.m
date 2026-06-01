@@ -6,7 +6,6 @@
 //
 
 #import "BackgroundRefreshStrategy.h"
-#import <UIKit/UIKit.h>
 
 @implementation BackgroundRefreshStrategy
 

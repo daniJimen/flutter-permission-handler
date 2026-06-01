@@ -5,8 +5,6 @@
 //  Created by Razvan Lung on 15/02/2019.
 //
 
-#import <Foundation/Foundation.h>
-
 // ios: [PermissionGroupCalendar, PermissionGroupCalendarWriteOnly]
 // Info.plist: [NSCalendarsUsageDescription, NSCalendarWriteOnlyAccessUsageDescription]
 // dart: PermissionGroup.calendar

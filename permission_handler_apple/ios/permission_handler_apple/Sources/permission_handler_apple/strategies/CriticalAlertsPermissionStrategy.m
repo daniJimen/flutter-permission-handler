@@ -6,7 +6,6 @@
 //
 
 #import "CriticalAlertsPermissionStrategy.h"
-#import <UIKit/UIKit.h>
 
 #if PERMISSION_CRITICAL_ALERTS
 

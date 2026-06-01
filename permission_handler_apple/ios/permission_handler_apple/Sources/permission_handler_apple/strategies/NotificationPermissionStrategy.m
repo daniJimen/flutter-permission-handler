@@ -6,7 +6,6 @@
 //
 
 #import "NotificationPermissionStrategy.h"
-#import <UIKit/UIKit.h>
 
 #if PERMISSION_NOTIFICATIONS
 
